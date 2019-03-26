@@ -46,10 +46,10 @@
 
   // 附加信息内容。
   // left label
-  itemLabel: "左侧文字",
+  itemLabel: "房企全国前21强",
 
   // right label
-  typeLabel: "右侧文字",
+  typeLabel: "企业营业成本 万元",
   // 榜首项目信息的水平位置 。
   item_x: 250,
 
@@ -126,7 +126,7 @@
   wait: 2,
 
   // 单独控制交换动画速度倍率
-  update_rate: 1,
+  update_rate: 1.25,
 
   // 开启匀速动画效果
   // animation:'linear',
